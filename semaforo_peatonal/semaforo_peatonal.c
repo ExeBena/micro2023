@@ -9,12 +9,6 @@
 #define VERDE 18
 
 
-enum estado {
-    verde = 0,
-    amarillo = 1,
-    rojo = 2
-};
-
 uint8_t luz;
 
 void irq_callback(uint gpio, uint32_t evento)
