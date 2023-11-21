@@ -21,8 +21,7 @@ int main() {
                     "Micros2023", "TUAR",
                     "Utilizando", "Raspberry Pico",
                     "Herramienta", "Full C SDK",
-                    "More power in", "your product",
-                    "More beans", "than Heinz!"
+                    "Anio", "2023"
             };
 
     while (1) {
